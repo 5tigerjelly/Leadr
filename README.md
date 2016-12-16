@@ -3,7 +3,8 @@ Jimmy B. Nguyen
 Bum Mook Oh
 **INFO 360 D, Autumn 2016**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cPhZE7UUg0E/0.jpg)](https://www.youtube.com/watch?v=cPhZE7UUg0E)
+[![IMAGE ALT TEXT HERE](/img/play.png)](https://www.youtube.com/watch?v=cPhZE7UUg0E)
+
 ##Problem
 We conducted an interview with a college student at the University of Washington to discover issues that we could create a solution for. We asked questions such as, “What activities give you stress, and why” and “What are some activities that you enjoy doing.” Some questions probed around leisure activities, such as “How often do you go on trips or enjoy activities with friends.” We found that planning an event with multiple friends can be cumbersome when considering everyone’s preference and opinions, which leads to indecisiveness. Our interviewee stated that it is important for students to attend social events with others to reduce stress, but it becomes difficult to plan when there are simple difficulties such as time arrangements when under the load of schoolwork. 
 
