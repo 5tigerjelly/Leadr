@@ -23,7 +23,7 @@ This design specification does not go into detail about the screens for the sett
 
 ##Solution
 ###Design Language
-
+![alt text](https://github.com/5tigerjelly/Leadr/blob/master/img/designchoices.png?raw=true "Logo Title Text 1")
 Roboto is the main typeface for Leadr because it is under the Apache License and is generally prefered for lower-resolutions displays (Cousins, C.). This allows Leadr to work well on older phones to the latest models. The only other font that is used is Roboto Slab, which is used for the app name on the title screen to create contrast. Red is the primary color for the app because it represents courage, power, and confidence, characteristics we want people to have so that they can make decisions confidently (Parker, R.). Green is used for buttons that indicates an affirmative option. Black is used as text color when text is on a white background, while white is used as text color when the text is on a different colored background. This ensures that text is readable. Gray is the default background color for the app, and white is the default color for various cards in the app. 
 
 ###Title Screen
