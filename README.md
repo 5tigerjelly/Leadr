@@ -1,4 +1,4 @@
-#Leadr Design Specification
+# Leadr Design Specification
 Jimmy B. Nguyen
 Bum Mook Oh
 **INFO 360 D, Autumn 2016**
